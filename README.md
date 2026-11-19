@@ -17,9 +17,10 @@ Portfolio : https://cedgh12.github.io
 |---|---|
 | [dvf-explorer](https://github.com/cedgh12/dvf-explorer) | Carte interactive des transactions immobilières (DVF) croisées avec transports et écoles |
 | [app-store-review-analyzer](https://github.com/cedgh12/app-store-review-analyzer) | Classification hebdomadaire des avis App Store (n8n, GPT-4.1-mini) avec digest HTML |
-| [translation-auto](https://github.com/cedgh12/translation-auto) | Traduction automatisée d'une application en 8 langues (FastAPI, OpenAI API, Lokalise) |
 | [job-offer-analysis-agent](https://github.com/cedgh12/job-offer-analysis-agent) | Agent d'analyse d'offres d'emploi (Claude, MCP Notion) |
-| [iot-diagnostic-tooling](https://github.com/cedgh12/iot-diagnostic-tooling) | Outil de diagnostic de la chaîne IoT pour le support |
+| [llm-translation-pipeline](https://github.com/cedgh12/llm-translation-pipeline) | Traduction automatisée d'une application en 8 langues (description, sans code) |
+| [iot-support-diagnostic-tool](https://github.com/cedgh12/iot-support-diagnostic-tool) | Outil de diagnostic de la chaîne IoT pour le support (description, sans code) |
+| [playwright-llm-test-generator](https://github.com/cedgh12/playwright-llm-test-generator) | Génération de tests E2E Playwright par LLM, avec dashboard (description, sans code) |
 
 ## Contact
 
